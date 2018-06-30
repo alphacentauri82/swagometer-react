@@ -7,5 +7,5 @@
 
 # Demo
 
-[https://build-myzipghuxw.now.sh/](https://build-myzipghuxw.now.sh/)
+[https://swag-o-meter.surge.sh/](https://swag-o-meter.surge.sh/)
 
